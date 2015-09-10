@@ -9,3 +9,13 @@ by code referencing the interfaces.
 Other properties can be accessed by casting to the concrete classes.
 
 
+**  Building:
+
+**  Build using ant
+
+Running the command line tool "ant" in the current directory will result in a jar 
+in the "deploy" dir named "percolator_reader_lib.jar".
+
+"ant" by default will use the file "build.xml".
+
+
