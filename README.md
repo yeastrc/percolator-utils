@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/yeastrc/percolator-utils.svg?branch=master)](https://travis-ci.com/yeastrc/percolator-utils)
+
 # percolator-utils
 
 Code to read a Percolator file.
