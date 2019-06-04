@@ -1,0 +1,5 @@
+
+Update version number in pom.xml
+
+c:\apache-maven-3.6.1\bin\mvn install:install-file -DgroupId=org.yeastrc -DartifactId=yrc-percolator-utils -Dversion=1.0.0 -DpomFile=pom.xml -Dfile=build\libs\yrc-percolator-utils.jar -Dpackaging=jar -DlocalRepositoryPath=.  -DcreateChecksum=true
+
